@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Docker
+mysql-data/
+*.log
+
+# OS files
+.DS_Store
